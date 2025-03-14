@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028360783355",
+    "project_id": "kitchakan-sripaeng",
+    "storage_bucket": "kitchakan-sripaeng.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028360783355:android:839735f8c3ea081fa1775e",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAWfQDqajlBxzi_Mxx0NAXTznuVxKHPjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
